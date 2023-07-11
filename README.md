@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gustavo Moreno
 - 👀 I’m interested in become a successful Android developer
-- 🌱 I’m currently learning Jetpack Compose, Kotlin, Clean Arquitecture
+- 🌱 I’m currently coding in Flutter, Kotlin, Jetpack Compose with Clean Arquitecture
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me https://beacons.ai/gusmoreno
 
