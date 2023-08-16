@@ -4,9 +4,9 @@
 <img src="https://i.postimg.cc/nLxQzL1V/bee2.png">
 
 ## About me
-- 🚀 Interested in become a successful Android developer
+- 🚀 Enthusiastic to become a successful Android developer
 - 📲 Currently coding in Flutter, Kotlin, Jetpack Compose withClean Arquitecture
-- 🧑‍💻 Looking to collaborate on mobile development teams
+- 🧑‍💻 Excited to collaborate on mobile development teams
 - 📫 How to reach me https://beacons.ai/gusmoreno
 
 
