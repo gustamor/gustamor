@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Gustavo Moreno
-- 👀 I’m interested in become a successful Android developer
-- 🌱 I’m currently coding in Flutter, Kotlin, Jetpack Compose with Clean Arquitecture
-- 💞️ I’m looking to collaborate on mobile development
+<div align="center">
+<h1 align="center">Hello, I am <a href="https://aristi.dev">Gustavo Moreno</a> 👋</h1>
+</div>
+<img src="https://i.postimg.cc/Hs1WHMLK/liondeity.png">
+
+## About me
+- 🚀 Interested in become a successful Android developer
+- 📲 Currently coding in Flutter, Kotlin, Jetpack Compose with Clean Arquitecture
+- 🧑‍💻 Looking to collaborate on mobile development teams
 - 📫 How to reach me https://beacons.ai/gusmoreno
 
-<!---
-gustamor/gustamor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
