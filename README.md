@@ -34,11 +34,10 @@
                         </p>
 
 ## About me
-- 🚀 Enthusiastic about the journey to becoming a successful Android developer
-- 📲 Currently engrossed in coding with Flutter, Kotlin, and Jetpack Compose, all woven together with the principles of Clean Architecture
-- 🧑‍💻 Excited about the opportunity to collaborate with mobile development teams
-- 🌟 Dedicated to consistently learning and evolving within the dynamic realm of mobile app development
-- 📫 You can reach me at https://beacons.ai/gusmoreno
+- 🚀 Android Developer
+- 📲 Currently coding with Flutter, Kotlin, and Jetpack Compose
+- 🧑‍💻 Looking forward to collaborating with other developers
+- 📫 I'm available to answer your questions related to programming. Just connect me 🙂
 
 <br/>
 
