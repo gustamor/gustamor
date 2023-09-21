@@ -71,8 +71,7 @@ Here are some of my most beloved applications
   <img height="300" src="https://play-lh.googleusercontent.com/EimbmQflzJA6cj7_KS70kZohYtARLnPpFBsNGbwajSpxDZcbDUt8_22-9LicCDtvT74=w1052-h592-rw" /> 
   <img height="300" src="https://play-lh.googleusercontent.com/nwxWzmHbbGMszMOk6ClnEs6sCw1psuxSm_XK4z8YuOkw5cl9HNugDTdmKc3abn2hnQs=w1052-h592-rw" /> 
 
- 
-</p>
+<p>
   <br/>
   <p align="center">
  <a href="https://play.google.com/store/apps/details?id=net.avivavoz.bts.justthelyrics">
@@ -91,7 +90,6 @@ Just The Lyrics is one of the best app about song lyrics. You can find lyrics an
 
  <p> <img alt="Static Badge" src="https://img.shields.io/badge/dart-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/flutter-blue"/> <img alt="Static Badge" src="https://img.shields.io/badge/Bloc-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Custom Widgets-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/JSON Deserialization-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Built Values-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/API REST-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Repository Pattern-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node.Js Backend-blue"> </p>
 
-
 ## Heavy Metal Radio Stations - The Metal Radio
 
 <p>
@@ -100,7 +98,7 @@ Just The Lyrics is one of the best app about song lyrics. You can find lyrics an
    <img height="300" src="https://play-lh.googleusercontent.com/gNZkyISosX1EYkxcxZJ9ixf41ZxWADPVRFNnH1T0gP27fuLKhBBaE8nwpXDWODAOqQM=w1052-h592-rw" />
 </p>
 
-</p>
+<p>
   <br/>
   <p align="center">
  <a href="https://play.google.com/store/apps/details?id=es.gustavomoreno.androidapps.radiostations.heavymetalradio">
@@ -117,7 +115,6 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" /><img alt="Static Badge" src="https://img.shields.io/badge/RSS-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress Backend-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" /> </p>
 
-
 ## Películas de Terror - A Youtube(TM) links repository of movies
 <p>
   <img height="300" src="https://play-lh.googleusercontent.com/xxsUbj5jPD9sRdpX6CBBzLGJDltf2phA3DT1ldCsn7eV7Cl3opgLbCQekQUHwGRmI5A=w1052-h592-rw" />
@@ -125,6 +122,13 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
    <img height="300" src="https://play-lh.googleusercontent.com/HZfnUWbnt16xfJClPbVj8-ue_7CMp3jU1-eql_HA0LWPXhiDVx0ufQsGVPDkQQui7-kL=w1052-h592-rw" />
   <img height="300" src="https://play-lh.googleusercontent.com/2QCCo1XKzRThEvNqeCJea2xfpINTgfD9trLwkdEJAobnZ-hxzoElQP_rhwvCdZSBdJY=w1052-h592-rw" />
    <img height="300" src="https://play-lh.googleusercontent.com/7XOYdhqNTVxcGysEpIGptLsdZyz9Xni8CTDdRD-mraVyexAXdtLFy0INN4jV2T9Zpw=w1052-h592-rw" />
+</p>
+<p>
+  <br/>
+  <p align="center">
+ <a href="https://play.google.com/store/apps/details?id=net.laenredadera.full.peliculas.gratis.de.terror">
+   <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white" />
+ </a>
 </p>
 
 Youtube™ links to scary movies. Legal content published on Youtube™, there are no downloads and there won't be any. Catalog of links.
