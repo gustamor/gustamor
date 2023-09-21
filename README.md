@@ -34,11 +34,10 @@
                         </p>
 
 ## About me
-- 🚀 Android Developer
-- 📲 Currently coding with Flutter, Kotlin, and Jetpack Compose
-- 🧑‍💻 Looking forward to collaborating with other developers
-- 📫 I'm available to answer your questions related to programming. Just connect me 🙂
-
+- 🚀 Enthusiastic about the journey to becoming a successful Android developer
+- 📲 Currently coding with Flutter, Kotlin and Jetpack Compose
+- 🧑‍💻 Excited about the opportunity to collaborate with mobile development teams
+- 📫 I'm available to answer your questions. Just connect me 🙂 
 <br/>
 
 ## Connect me
