@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello, I am <a href="https://aristi.dev">Gustavo Moreno</a> 👋</h1>
+<h1 align="center">I am <a href="https://aristi.dev">Gustavo Moreno</a> 👋</h1>
 </div>
 <img src="https://i.postimg.cc/nLxQzL1V/bee2.png">
   <p>
@@ -39,9 +39,13 @@
 - 🌟 Dedicated to consistently learning and evolving within the dynamic realm of mobile app development
 - 📫 You can reach me at https://beacons.ai/gusmoreno
 
+<br/>
+
 # Production Android apps
 
-## Just The Lyrics - Song Lyrics Finder
+Here are some of my most beloved applications
+
+### Just The Lyrics - Song Lyrics Finder
 
 
 <p>
