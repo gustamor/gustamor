@@ -44,9 +44,8 @@
 
 Here are some of my most beloved applications
 
-## Just The Lyrics - Song Lyrics Finder  https://github.com/gustamor/lyrics-app
+## Just The Lyrics - Song Lyrics Finder  
  
-
 <p>
   <img height="300" src="https://play-lh.googleusercontent.com/tJzZgEMmAejsnT8uXOHKmSrO9_WPJDrXtFX5r02poiSIPh42f0rAN3iFMM8g2MCkZTU=w1052-h592-rw" />
   <img height="300" src="https://play-lh.googleusercontent.com/7xrNz9cMbi3r8KL8dHk-eTrYcr8oAG9ygtzZAexoUERZOExdZyfyepABVvH9lMFK4Q=w1052-h592-rw" /> 
