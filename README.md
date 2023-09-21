@@ -1,6 +1,8 @@
 <h1 align="center">I am <a href="https://gustavomoreno.es">Gustavo Moreno</a> 👋</h1>
 </div>
-<img src="https://i.postimg.cc/nLxQzL1V/bee2.png">
+
+<!--https://i.postimg.cc/nLxQzL1V/bee2.png-->
+<img src="https://i.postimg.cc/Hs88K8Mj/fonde1.png">
   <p>
                             <img alt="Static Badge" src="https://img.shields.io/badge/IDE-Android Studio-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/IDE-VS Code-green"> 
@@ -99,6 +101,10 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
 - **4.2 overall stars in Google Play Store**
 - **TOPs in the most scored keywords of its market vertical**
 
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" /><img alt="Static Badge" src="https://img.shields.io/badge/RSS-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress Backend-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" /> </p>
+
+
 ## Películas de Terror - A Youtube(TM) links repository of movies
 <p>
   <img height="300" src="https://play-lh.googleusercontent.com/xxsUbj5jPD9sRdpX6CBBzLGJDltf2phA3DT1ldCsn7eV7Cl3opgLbCQekQUHwGRmI5A=w1052-h592-rw" />
@@ -108,9 +114,12 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
    <img height="300" src="https://play-lh.googleusercontent.com/7XOYdhqNTVxcGysEpIGptLsdZyz9Xni8CTDdRD-mraVyexAXdtLFy0INN4jV2T9Zpw=w1052-h592-rw" />
 </p>
 
-Youtube(TM) links to scary movies. Legal content published on Youtube(TM), there are no downloads and there won't be any. Catalog of links.
+Youtube™ links to scary movies. Legal content published on Youtube™, there are no downloads and there won't be any. Catalog of links.
 
 - **167.000+ downloads**
+- **750+ daily active users**
 - **4.1 overall stars in Google Play Store**
 - **TOPs in the most scored keywords of its market vertical**
 
+<p> <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Realtime-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Strapi Bacekend-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" />
+</p>
