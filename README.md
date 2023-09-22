@@ -43,7 +43,7 @@
 ## Connect me
 
 <a href="https://gustavomoreno.es">
-  <img src="https://img.shields.io/badge/blog-1DA1F2?style=for-the-badge&logo=html5&logoColor=white" />    
+  <img src="https://img.shields.io/badge/web-1DA1F2?style=for-the-badge&logo=html5&logoColor=white" />    
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/gustavomorenofernandez/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
