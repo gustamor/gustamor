@@ -108,7 +108,7 @@ Just The Lyrics is one of the best app about song lyrics. You can find lyrics an
 
 Heavy Metal Radio Stations is one of the best radio receiver for metal stations. Also has news about metal world in six languages.
 
-- **12.000 downloads**
+- **12.000+ downloads**
 - **4.2 overall stars in Google Play Store**
 - **TOPs in the most scored keywords of its market vertical**
 
