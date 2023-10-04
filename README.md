@@ -7,7 +7,9 @@
                             <img alt="Static Badge" src="https://img.shields.io/badge/IDE-Android Studio-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/IDE-VS Code-green"> 
                             <br />
-                           <img alt="Static Badge" src="https://img.shields.io/badge/Language-Kotlin-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Dart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Language-Java-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Flutter-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Jetpack Compose-purple"> 
+                           <img alt="Static Badge" src="https://img.shields.io/badge/Language-Kotlin-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Dart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Language-Java-blue">   <img alt="Static Badge" src="https://img.shields.io/badge/Jetpack Compose-purple"> 
+                            <br />
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Flutter-blue"> 
                             <br />
                             <img alt="Static Badge" src="https://img.shields.io/badge/git-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/xml-green"> 
