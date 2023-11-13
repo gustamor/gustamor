@@ -55,6 +55,15 @@
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 
+<br/>
+
+## Support Me ☕
+Want to help me out? Buy me a coffee!
+
+[![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on_Ko--fi-434b57?logo=Ko-fi&logoColor=white)](https://ko-fi.com/gustamor)
+
+<br/>
+
 ## Production Android apps
 
 Here are some of my most beloved applications
