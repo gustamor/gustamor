@@ -64,7 +64,7 @@ Want to help me out? Buy me a coffee!
 
 <br/>
 
-## Production Android apps
+## Production Android apps ❤️
 
 Here are some of my most beloved applications
 
