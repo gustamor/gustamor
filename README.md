@@ -57,12 +57,6 @@
 
 <br/>
 
-## Support Me ☕
-Want to help me out? Buy me a coffee!
-
-[![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on_Ko--fi-434b57?logo=Ko-fi&logoColor=white)](https://ko-fi.com/gustamor)
-
-<br/>
 
 ## Production Android apps ❤️
 
@@ -147,5 +141,13 @@ Youtube™ links to scary movies. Legal content published on Youtube™, there a
 - **4.1 overall stars in Google Play Store**
 - **TOPs in the most scored keywords of its market vertical**
 
+<br/>
+
+## Support Me ☕
+Want to help me out? Buy me a coffee!
+
+[![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on_Ko--fi-434b57?logo=Ko-fi&logoColor=white)](https://ko-fi.com/gustamor)
+
+<br/>
 <p> <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Realtime-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Strapi Bacekend-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" />
 </p>
