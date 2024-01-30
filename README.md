@@ -4,23 +4,24 @@
 <!--https://i.postimg.cc/nLxQzL1V/bee2.png-->
 <img src="https://i.postimg.cc/Hs88K8Mj/fonde1.png">
   <p>
-                            <img alt="Static Badge" src="https://img.shields.io/badge/IDE-Android Studio-green"> 
+                          <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Flutter-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Dart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Language-Kotlin-blue">   <img alt="Static Badge" src="https://img.shields.io/badge/Language-Java-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Jetpack Compose-purple"> 
+                            <br />
+       <img alt="Static Badge" src="https://img.shields.io/badge/IDE-Android Studio-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/IDE-VS Code-green"> 
                             <br />
-                           <img alt="Static Badge" src="https://img.shields.io/badge/Language-Kotlin-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Dart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Language-Java-blue">   <img alt="Static Badge" src="https://img.shields.io/badge/Jetpack Compose-purple"> 
-                            <br />
-                            <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Flutter-blue"> 
-                            <br />
-                            <img alt="Static Badge" src="https://img.shields.io/badge/git-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/xml-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/bloc-green">
-                            <img alt="Static Badge" src="https://img.shields.io/badge/hilt-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/state flow-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/room-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/recyclerview-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/retrofit-green">
+                             <img alt="Static Badge" src="https://img.shields.io/badge/GPT-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Prompt engineering-green"> 
+                           <img alt="Static Badge" src="https://img.shields.io/badge/AI-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/firebase-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/API-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/BloC-green">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Riverpod-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Firestore-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Room-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-green">
                              <img alt="Static Badge" src="https://img.shields.io/badge/MVVM-green"> 
                             <br />
+                                <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-yellow"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/firebase-yellow"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/strapi-yellow">
                             <img alt="Static Badge" src="https://img.shields.io/badge/docker-yellow">
@@ -30,13 +31,15 @@
                             <br />
                             <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-orange"> 
                            <img alt="Static Badge" src="https://img.shields.io/badge/debian-orange"> 
+                                <img alt="Static Badge" src="https://img.shields.io/badge/macos-orange"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/windows-orange"> 
                         </p>
 
 ## About me
-- 🚀 Enthusiastic about the journey to becoming a successful Android developer
-- 📲 Currently coding with Flutter, Kotlin and Jetpack Compose
-- 🧑‍💻 Excited about the opportunity to collaborate with mobile development teams
+- 🚀 Enthusiastic about the journey to becoming a successful
+- 💡 Proficient in generative AI, especially GPT and APIs, adept at integrating them into practical work applications
+- 📲 Currently coding with Flutter and Kotlin
+- 🧑‍💻 Excited about the opportunity to collaborate with development teams
 - 📫 I'm available to answer your questions. Just connect me 🙂 
 <br/>
 
