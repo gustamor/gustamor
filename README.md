@@ -57,9 +57,26 @@
 <a href="https://telegram.me/Gustamor">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
-
 <br/>
 
+## AI Story Teller
+
+Template for a Flutter Application with ChatGPT and DALL-E Integration
+
+<p>
+  <img height="300" src="https://i.postimg.cc/6qnrns3k/captura1.png" />
+  <img height="300" src= https://i.postimg.cc/9FMh1WVt/captura4.png" />
+  <img height="300" src="https://i.postimg.cc/cLVRJ4Xs/captura5.png" />
+  <img height="300" src="https://i.postimg.cc/MpvkStrC/captura6.png" />
+  <img height="300" src="https://i.postimg.cc/tgyy3Fg7/captura3.png" />
+</p>
+<p>
+  <p align="center">
+ <a href="https://github.com/gustamor/story_teller">
+   <img  src="https://img.shields.io/badge/Github%20Source%20Code-41823e "/>
+ </a>
+</p>
+<br/>
 
 ## Production Android apps ❤️
 
