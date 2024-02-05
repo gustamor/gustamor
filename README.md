@@ -67,6 +67,8 @@ Template for a Flutter Application with ChatGPT and DALL-E Integration
   <img height="300" src="https://i.postimg.cc/6qnrns3k/captura1.png" />
   <img height="300" src= https://i.postimg.cc/9FMh1WVt/captura4.png" />
   <img height="300" src="https://i.postimg.cc/cLVRJ4Xs/captura5.png" />
+  <br/>
+  <br/>
   <img height="300" src="https://i.postimg.cc/MpvkStrC/captura6.png" />
   <img height="300" src="https://i.postimg.cc/tgyy3Fg7/captura3.png" />
 </p>
