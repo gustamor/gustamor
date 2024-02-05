@@ -60,14 +60,13 @@
 <br/>
 
 ## AI Story Teller
-
-Template for a Flutter Application with ChatGPT and DALL-E Integration
-<br/>
 <p>
  <a href="https://www.instagram.com/reel/C29hNo7qymB/">
      <img  src="https://img.shields.io/badge/Mention-3d83f1"/>
  </a>
 </p>
+Template for a Flutter Application with ChatGPT and DALL-E Integration
+<br/>
 <p>
   <img height="300" src="https://i.postimg.cc/6qnrns3k/captura1.png" />
   <img height="300" src= https://i.postimg.cc/9FMh1WVt/captura4.png" />
