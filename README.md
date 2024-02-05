@@ -66,8 +66,9 @@
  </a>
 </p>
 Template for a Flutter Application with ChatGPT and DALL-E Integration
-<br/>
+
 <p>
+  <br/>
   <img height="300" src="https://i.postimg.cc/6qnrns3k/captura1.png" />
   <img height="300" src= https://i.postimg.cc/9FMh1WVt/captura4.png" />
   <img height="300" src="https://i.postimg.cc/cLVRJ4Xs/captura5.png" />
