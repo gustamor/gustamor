@@ -31,7 +31,7 @@
                             <br />
                             <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-orange"> 
                            <img alt="Static Badge" src="https://img.shields.io/badge/debian-orange"> 
-                                <img alt="Static Badge" src="https://img.shields.io/badge/macos-orange"> 
+                              <img alt="Static Badge" src="https://img.shields.io/badge/macos-orange"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/windows-orange"> 
                         </p>
 
@@ -58,16 +58,29 @@
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 <br/>
+<br/>
+<br/>
 
 ## AI Story Teller
+
+Template for a Flutter Application with ChatGPT, DALL-E Integration and Firebase
+<br/>
 <p>
  <a href="https://www.instagram.com/reel/C29hNo7qymB/">
      <img  src="https://img.shields.io/badge/Mention-3d83f1"/>
  </a>
-</p>
-Template for a Flutter Application with ChatGPT and DALL-E Integration
+    
+ <a href="https://github.com/gustamor/story_teller">
+   <img  src="https://img.shields.io/badge/Github%20Source%20Code-41823e"/>
+ </a>
+   <a href="https://storytellerdocumentation.gustavomoreno.es/api/index.html">
+   <img src="https://img.shields.io/badge/API%20Documentation-1717ee"/>
+ </a>
 
+</p>
+<br/>
 <p>
+  
   <br/>
   <img height="300" src="https://i.postimg.cc/6qnrns3k/captura1.png" />
   <img height="300" src= https://i.postimg.cc/9FMh1WVt/captura4.png" />
@@ -77,13 +90,9 @@ Template for a Flutter Application with ChatGPT and DALL-E Integration
   <img height="300" src="https://i.postimg.cc/MpvkStrC/captura6.png" />
   <img height="300" src="https://i.postimg.cc/tgyy3Fg7/captura3.png" />
 </p>
-
-<p>
+  
   <p align="center">
- <a href="https://github.com/gustamor/story_teller">
-   <img  src="https://img.shields.io/badge/Github%20Source%20Code-41823e "/>
- </a>
-</p>
+  </p>
 <br/>
 
 ## Production Android apps ❤️
@@ -112,7 +121,7 @@ Here are some of my most beloved applications
 
 Just The Lyrics is one of the best app about song lyrics. You can find lyrics and info of the artist and the album
 
-- **21.000+ downloads**
+- **22.000+ downloads**
 - **4.4 overall stars in Google Play Store**
 - **450+ daily active users**
 - **100% crash-free users**
