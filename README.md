@@ -97,7 +97,7 @@ Template for a Flutter Application with ChatGPT, DALL-E Integration and Firebase
   </p>
 <br/>
 
-## Production Android apps ❤️
+# Production Android apps ❤️
 
 Here are some of my most beloved applications
 
