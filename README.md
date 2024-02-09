@@ -36,11 +36,18 @@
                         </p>
 
 ## About me
-- 🚀 Enthusiastic about the journey to becoming a successful
-- 💡 Proficient in generative AI, especially GPT and APIs, adept at integrating them into practical work applications
-- 📲 Currently coding with Flutter and Kotlin
-- 🧑‍💻 Excited about the opportunity to collaborate with development teams
-- 📫 I'm available to answer your questions. Just connect me 🙂 
+
+🚀 Enthusiastic about the journey to becoming a successful developer
+
+💡 Proficient in generative AI, especially GPT and APIs, adept at integrating them into practical work applications
+
+📲 Currently coding with Flutter, Kotlin and Java
+
+🧑‍💻 Excited about the opportunity to collaborate with development teams
+
+🤝 Collaborator on FOSS projects
+
+📫 I'm available to answer your questions. Just connect me 🙂
 <br/>
 
 ## Connect me
