@@ -1,5 +1,5 @@
 <h1 align="center">I am <a href="https://gustavomoreno.es">Gustavo Moreno</a> 🎯</h1>
-</div>
+
 
 <!--https://i.postimg.cc/nLxQzL1V/bee2.png-->
 <img src="https://i.postimg.cc/Hs88K8Mj/fonde1.png">
@@ -47,17 +47,16 @@
 
 <a href="https://gustavomoreno.es">
   <img src="https://img.shields.io/badge/web-1DA1F2?style=for-the-badge&logo=html5&logoColor=white" />    
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/gustavomorenofernandez/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="mailto:gustavo.moreno.fernandez@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="https://telegram.me/Gustamor">
   <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
-<br/>
 <br/>
 <br/>
 
@@ -69,18 +68,15 @@ Template for a Flutter Application with ChatGPT, DALL-E Integration and Firebase
  <a href="https://www.instagram.com/reel/C29hNo7qymB/">
      <img  src="https://img.shields.io/badge/Mention-3d83f1"/>
  </a>
-    
  <a href="https://github.com/gustamor/story_teller">
    <img  src="https://img.shields.io/badge/Github%20Source%20Code-41823e"/>
  </a>
-   <a href="https://storytellerdocumentation.gustavomoreno.es/api/index.html">
+<a href="https://storytellerdocumentation.gustavomoreno.es/api/index.html">
    <img src="https://img.shields.io/badge/API%20Documentation-1717ee"/>
- </a>
-
+</a>
 </p>
 <br/>
 <p>
-  
   <br/>
   <img height="300" src="https://i.postimg.cc/6qnrns3k/captura1.png" />
   <img height="300" src= https://i.postimg.cc/9FMh1WVt/captura4.png" />
@@ -90,7 +86,6 @@ Template for a Flutter Application with ChatGPT, DALL-E Integration and Firebase
   <img height="300" src="https://i.postimg.cc/MpvkStrC/captura6.png" />
   <img height="300" src="https://i.postimg.cc/tgyy3Fg7/captura3.png" />
 </p>
-  
   <p align="center">
   </p>
 <br/>
