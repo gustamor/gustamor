@@ -69,12 +69,9 @@
 
 ## AI Story Teller
 
-Template for a Flutter Application with ChatGPT, DALL-E Integration and Firebase
+Template for a Flutter Application with Riverpod, ChatGPT, DALL-E Integration and Firebase
 <br/>
 <p>
- <a href="https://www.instagram.com/reel/C29hNo7qymB/">
-     <img  src="https://img.shields.io/badge/Mention-3d83f1"/>
- </a>
  <a href="https://github.com/gustamor/story_teller">
    <img  src="https://img.shields.io/badge/Github%20Source%20Code-41823e"/>
  </a>
@@ -93,8 +90,14 @@ Template for a Flutter Application with ChatGPT, DALL-E Integration and Firebase
   <img height="300" src="https://i.postimg.cc/MpvkStrC/captura6.png" />
   <img height="300" src="https://i.postimg.cc/tgyy3Fg7/captura3.png" />
 </p>
-  <p align="center">
-  </p>
+  
+  - Selected as the best application and chosen for marketing purposes by the academy
+  
+
+     <a href="https://www.instagram.com/reel/C29hNo7qymB/">
+     <img  src="https://img.shields.io/badge/Mentioned-3d83f1"/>
+ </a>   
+  
 <br/>
 
 # Production Android apps ❤️
