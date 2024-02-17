@@ -20,7 +20,8 @@
                             <img alt="Static Badge" src="https://img.shields.io/badge/Firestore-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Local%20Persistance-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-green">
-                             <img alt="Static Badge" src="https://img.shields.io/badge/MVVM-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Arquitectures-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/SOLID-green"> 
                             <br />
                                 <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-yellow"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-yellow"> 
@@ -66,7 +67,7 @@
 </a>
       <p align="center">
   </p>
-<br/>
+
 <br/>
 
 ## AI Story Teller
