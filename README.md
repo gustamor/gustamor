@@ -9,6 +9,7 @@
        <img alt="Static Badge" src="https://img.shields.io/badge/IDE-Android Studio-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/IDE-VS Code-green"> 
                             <br />
+                             <img alt="Static Badge" src="https://img.shields.io/badge/Testing-red"> 
                              <img alt="Static Badge" src="https://img.shields.io/badge/GPT-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Prompt engineering-green"> 
                            <img alt="Static Badge" src="https://img.shields.io/badge/AI-green"> 
@@ -22,17 +23,17 @@
                              <img alt="Static Badge" src="https://img.shields.io/badge/MVVM-green"> 
                             <br />
                                 <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-yellow"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/firebase-yellow"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/strapi-yellow">
-                            <img alt="Static Badge" src="https://img.shields.io/badge/docker-yellow">
-                            <img alt="Static Badge" src="https://img.shields.io/badge/google play-yellow">
-                            <img alt="Static Badge" src="https://img.shields.io/badge/amazon app store-yellow">
-                            <img alt="Static Badge" src="https://img.shields.io/badge/admob-yellow">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-yellow"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Strapi-yellow">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Docker-yellow">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Google Play-yellow">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Amazon app store-yellow">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Admob-yellow">
                             <br />
-                            <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-orange"> 
-                           <img alt="Static Badge" src="https://img.shields.io/badge/debian-orange"> 
-                              <img alt="Static Badge" src="https://img.shields.io/badge/macos-orange"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/windows-orange"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-orange"> 
+                           <img alt="Static Badge" src="https://img.shields.io/badge/Debian-orange"> 
+                              <img alt="Static Badge" src="https://img.shields.io/badge/Macos-orange"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Windows-orange"> 
                         </p>
 
 ## About me
