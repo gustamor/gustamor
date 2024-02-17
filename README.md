@@ -51,19 +51,20 @@
 <br/>
 
 ## Connect me
-
+<p>
+   <p align="left">
 <a href="https://gustavomoreno.es">
-  <img src="https://img.shields.io/badge/web-1DA1F2?style=for-the-badge&logo=html5&logoColor=white" />    
+  <img src="https://img.shields.io/badge/web-1DA1F2?style=for-the-badge&logo=html5&logoColor=white"/>    
 </a>
 <a href="https://www.linkedin.com/in/gustavomorenofernandez/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:gustavo.moreno.fernandez@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://telegram.me/Gustamor">
+  <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"/>    
 </a>
-<a href="mailto:gustavo.moreno.fernandez@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://telegram.me/Gustamor">
-  <img src="https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
-</a>&nbsp;
+      <p align="center">
+  </p>
 <br/>
 <br/>
 
@@ -71,14 +72,14 @@
 
 Template for a Flutter Application with Riverpod, ChatGPT, DALL-E Integration and Firebase
 <br/>
-<p>
+
  <a href="https://github.com/gustamor/story_teller">
    <img  src="https://img.shields.io/badge/Github%20Source%20Code-41823e"/>
  </a>
-<a href="https://storytellerdocumentation.gustavomoreno.es/api/index.html">
+ <a href="https://storytellerdocumentation.gustavomoreno.es/api/index.html">
    <img src="https://img.shields.io/badge/API%20Documentation-1717ee"/>
 </a>
-</p>
+
 <br/>
 <p>
   <br/>
