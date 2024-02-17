@@ -97,9 +97,8 @@ Template for a Flutter Application with Riverpod, ChatGPT, DALL-E Integration an
   
   - Selected as the best application and chosen for marketing purposes by the academy
   
-
      <a href="https://www.instagram.com/reel/C29hNo7qymB/">
-     <img  src="https://img.shields.io/badge/Mentioned-3d83f1"/>
+     <img  src="https://img.shields.io/badge/Mentioned-ff2f92"/>
  </a>   
   
 <br/>
@@ -137,7 +136,7 @@ Just The Lyrics is one of the best app about song lyrics. You can find lyrics an
 - **TOPs in the most scored keywords of its market vertical**
 
 
- <p> <img alt="Static Badge" src="https://img.shields.io/badge/dart-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/flutter-blue"/> <img alt="Static Badge" src="https://img.shields.io/badge/Bloc-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Custom Widgets-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/JSON Deserialization-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Built Values-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/API REST-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Repository Pattern-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node.Js Backend-blue"> </p>
+ <p align="center">  <img alt="Static Badge" src="https://img.shields.io/badge/dart-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/flutter-blue"/> <img alt="Static Badge" src="https://img.shields.io/badge/Bloc-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Custom Widgets-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/JSON Deserialization-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Built Values-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/API REST-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Repository Pattern-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Node.Js Backend-blue"> </p>
 
 ## Heavy Metal Radio Stations - The Metal Radio
 
@@ -161,7 +160,7 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
 - **4.2 overall stars in Google Play Store**
 - **TOPs in the most scored keywords of its market vertical**
 
-<p>
+ <p align="center"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" /><img alt="Static Badge" src="https://img.shields.io/badge/RSS-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress Backend-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" /> </p>
 
 ## Películas de Terror - A Youtube(TM) links repository of movies
@@ -189,11 +188,12 @@ Youtube™ links to scary movies. Legal content published on Youtube™, there a
 
 <br/>
 
+  <p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Realtime-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Strapi Bacekend-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" />
+</p>
+
 ## Support Me ☕
 Want to help me out? Buy me a coffee!
 
 [![Ko-fi](https://img.shields.io/badge/Buy_me_a_Coffee_on_Ko--fi-434b57?logo=Ko-fi&logoColor=white)](https://ko-fi.com/gustamor)
 
-<br/>
-<p> <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Realtime-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Strapi Bacekend-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" />
-</p>
+
