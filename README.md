@@ -18,7 +18,7 @@
                             <img alt="Static Badge" src="https://img.shields.io/badge/BloC-green">
                             <img alt="Static Badge" src="https://img.shields.io/badge/Riverpod-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Firestore-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/Room-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Local%20Persistance-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-green">
                              <img alt="Static Badge" src="https://img.shields.io/badge/MVVM-green"> 
                             <br />
