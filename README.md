@@ -53,6 +53,8 @@
 📫 I'm available to answer your questions. Just connect me 🙂
 <br/>
 
+
+
 ## Connect me
 <p>
    <p align="left">
@@ -68,12 +70,18 @@
 </a>
       <p align="center">
   </p>
+ <p>
+   <br/>
+What's said about me? 
+   <br/>
+ <a href="https://www.linkedin.com/posts/eduardcarreras_flutter-desarrollomaejvil-carreraprofesional-activity-7165261239349198849-eSbL?utm_source=share">
+  <img src="https://img.shields.io/badge/Bio-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a></p>
 
-<br/>
 
 ## AI Story Teller
 
-Template for a Flutter Application with Riverpod, ChatGPT, DALL-E Integration and Firebase
+Template app for a Flutter Application with Riverpod, ChatGPT, DALL-E Integration and Firebase
 <br/>
 
  <a href="https://github.com/gustamor/story_teller">
