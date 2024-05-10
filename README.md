@@ -17,14 +17,14 @@
                             <img alt="Static Badge" src="https://img.shields.io/badge/Prompt engineering-green"> 
                              <img alt="Static Badge" src="https://img.shields.io/badge/AI-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/firebase-green"> 
-                            <img alt="Static Badge" src="https://img.shields.io/badge/API-green">                   
-                            <img alt="Static Badge" src="https://img.shields.io/badge/BloC-green">
+                            <img alt="Static Badge" src="https://img.shields.io/badge/API-green">                  
                              <br />  
                             <img alt="Static Badge" src="https://img.shields.io/badge/Riverpod-green"> 
+                              <img alt="Static Badge" src="https://img.shields.io/badge/BloC-green">
                             <img alt="Static Badge" src="https://img.shields.io/badge/Firestore-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Local%20Persistance-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-green">
-                            <img alt="Static Badge" src="https://img.shields.io/badge/Arquitectures-green"> 
+                            <img alt="Static Badge" src="https://img.shields.io/badge/Clean Arquitecture-green"> 
                             <img alt="Static Badge" src="https://img.shields.io/badge/SOLID-green"> 
                             <br />
                                 <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-yellow"> 
