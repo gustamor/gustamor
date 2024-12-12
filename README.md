@@ -73,14 +73,12 @@
 </a>
       <p align="center">
   </p>
- <p>
-   <br/>
+
 What's said about me? 
    <br/>
  <a href="https://www.linkedin.com/posts/eduardcarreras_flutter-desarrollomaejvil-carreraprofesional-activity-7165261239349198849-eSbL?utm_source=share">
   <img src="https://img.shields.io/badge/Bio-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a></p>
-
 
 ## AI Story Teller
 
@@ -182,13 +180,6 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
   <img height="300" src="https://play-lh.googleusercontent.com/2QCCo1XKzRThEvNqeCJea2xfpINTgfD9trLwkdEJAobnZ-hxzoElQP_rhwvCdZSBdJY=w1052-h592-rw" />
    <img height="300" src="https://play-lh.googleusercontent.com/7XOYdhqNTVxcGysEpIGptLsdZyz9Xni8CTDdRD-mraVyexAXdtLFy0INN4jV2T9Zpw=w1052-h592-rw" />
 </p>
-<p>
-  <br/>
-  <p align="center">
- <a href="https://play.google.com/store/apps/details?id=net.laenredadera.full.peliculas.gratis.de.terror">
-   <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white" />
- </a>
-</p>
 
 Youtube™ links to scary movies. Legal content published on Youtube™, there are no downloads and there won't be any. Catalog of links.
 
@@ -199,8 +190,11 @@ Youtube™ links to scary movies. Legal content published on Youtube™, there a
 
 <br/>
 
-  <p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Realtime-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Strapi Bacekend-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" />
+  <p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/Java-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Reclyer Adapter-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Exoplayer 2-blue" />  <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Realtime-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Retrofit-blue" /> <https://gist.github.com/gustamor/8316034f6d6e00d76db04bd71a4cb141img alt="Static Badge" src="https://img.shields.io/badge/Strapi Bacekend-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Remote Config-blue" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase Crashlytics-blue" />
 </p>
+    
+#### Gist
+<p align="left"><a href="https://gist.github.com/gustamor/8316034f6d6e00d76db04bd71a4cb141"><img src="https://img.shields.io/badge/Gist-Package_Installer_for_State_Management-00875f?style=for-the-badge&logo=github&logoColor=white" alt="Gist Link"/></a></p>
 
 ## Support Me ☕
 Want to help me out? Buy me a coffee!
