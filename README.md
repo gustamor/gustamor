@@ -194,7 +194,7 @@ Youtube™ links to scary movies. Legal content published on Youtube™, there a
 </p>
     
 #### Gist
-<p align="left"><a href="https://gist.github.com/gustamor/8316034f6d6e00d76db04bd71a4cb141"><img src="https://img.shields.io/badge/Gist-Package_Installer_for_State_Management-00875f?style=for-the-badge&logo=github&logoColor=white" alt="Gist Link"/></a></p>
+<p align="left"><a href="https://gist.github.com/gustamor/8316034f6d6e00d76db04bd71a4cb141"><img src="https://img.shields.io/badge/Gist-Dart_Package_Installer_for_State_Management-00875f?style=for-the-badge&logo=github&logoColor=white" alt="Gist Link"/></a></p>
 
 ## Support Me ☕
 Want to help me out? Buy me a coffee!
