@@ -6,7 +6,7 @@
 <!--<img src="https://i.postimg.cc/xdLKT638/swan2.png">-->
 
 
-<img src="https://i.postimg.cc/gkkNwzHQ/hobsyllwin-falling-through-time-sci-fi-cosmic-high-detail-reali-4cfc5a1e-7a0b-4787-8e38-6415ad4036ed.png">
+<img src="https://i.postimg.cc/KYyTMQyj/fondo3.png">
 
   <p>
                           <img alt="Static Badge" src="https://img.shields.io/badge/Framework-Flutter-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Language-Dart-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/Language-Kotlin-blue">   <img alt="Static Badge" src="https://img.shields.io/badge/Language-Java-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Jetpack Compose-purple"> 
