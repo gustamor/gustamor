@@ -185,7 +185,7 @@ Heavy Metal Radio Stations is one of the best radio receiver for metal stations.
 
 Youtube™ links to scary movies. Legal content published on Youtube™, there are no downloads and there won't be any. Catalog of links.
 
-- **167.000+ downloads**
+- **200.000+ downloads**
 - **750+ daily active users**
 - **4.1 overall stars in Google Play Store**
 - **TOPs in the most scored keywords of its market vertical**
