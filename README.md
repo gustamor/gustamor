@@ -140,7 +140,7 @@ Here are some of my most beloved applications
 
 Just The Lyrics is one of the best app about song lyrics. You can find lyrics and info of the artist and the album
 
-- **100.000+ downloads**
+- **200.000+ downloads**
 - **4.4 overall stars in Google Play Store**
 - **450+ daily active users**
 - **100% crash-free users**
